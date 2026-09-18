@@ -1,5 +1,5 @@
 # 🌍 AI Trip Planner
-
+https://ai-trip-planner-epjm.onrender.com/health
 > An agentic AI travel-planning application built with **LangGraph, LangChain, FastAPI, Streamlit, and Groq**, with external tools for travel research, places discovery, and trip-related calculations.
 
 [![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)](https://www.python.org/)
